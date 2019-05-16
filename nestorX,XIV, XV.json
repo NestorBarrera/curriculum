@@ -5049,5 +5049,1215 @@
             "zone": "Rural"
         },
 
+        //aquí comieenza tepeji del rio de ocampo
+
+        {
+            "cp": "42852",
+            "township": "El Manantial",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42852",
+            "township": "Tianguistengo",
+            "townshipType": "Colonia            ",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42852",
+            "township": "Tianguistengo (La Romera)",
+            "townshipType": "Colonia            ",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42852",
+            "township": "Unidad Obrera Habitacional C.T.M.",
+            "townshipType": "Unidad habitacional",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42852",
+            "township": "Presa Escondida",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42852",
+            "township": "Vista Hermosa",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42852",
+            "township": "El Cerrito",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42853",
+            "township": "San Mateo Segunda Sección",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42853",
+            "township": "Lomas de la Cantera",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42853",
+            "township": "San Mateo",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "Paseos Tepeji",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "Tinajas",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "El Edén",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "San Francisco",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "El Paraíso",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "Taxhido",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "El Carmen",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "San Juan Otlaxpa",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "INFONAVIT El Cerrito",
+            "townshipType": "Unidad habitacional",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "Lomas Tinajas",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42854",
+            "township": "Praderas",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42855",
+            "township": "Caracol",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42855",
+            "township": "Tlaxinacalpan",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42855",
+            "township": "Noxtongo",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42855",
+            "township": "Atengo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42855",
+            "township": "Caltego",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42855",
+            "township": "Rancho la Concha",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42858",
+            "township": "Cañada de Madero",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42860",
+            "township": "Santa Ana Azcapotzaltongo",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42860",
+            "township": "San Ildefonso",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42860",
+            "township": "Santiago Tlautla",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42860",
+            "township": "Santa María Magdalena",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42860",
+            "township": "La Flor",
+            "townshipType": "Barrio",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42863",
+            "township": "El Lienzo",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42865",
+            "township": "Ojo de Agua",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42865",
+            "township": "Miraflores",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42865",
+            "township": "El Zapote",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42865",
+            "township": "Canoas",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42865",
+            "township": "El Banco (El Banco Vega de Madero)",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42865",
+            "township": "La Estancia 1a. Sección Santa María Magdalena",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42866",
+            "township": "Vega de Madero (El Panal)",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42870",
+            "township": "Melchor Ocampo (El Salto)",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42873",
+            "township": "Lumbrera 18",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42873",
+            "township": "Santiago Tlaltepoxco",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42874",
+            "township": "Lumbrera 20",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42874",
+            "township": "Lumbrera 19 (Barranca del Muerto)",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42875",
+            "township": "Dos Peñas",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42875",
+            "township": "Benito Juárez",
+            "townshipType": "Colonia",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42875",
+            "township": "Presa Escondida 2a. Sección Hacienda la Nopalera",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42876",
+            "township": "Los Tuneles",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42880",
+            "township": "Santiago Tlapanaloya",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42883",
+            "township": "La Placa",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42884",
+            "township": "Raramuri",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42884",
+            "township": "Parque Industrial Tepeji",
+            "townshipType": "Zona industrial",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42885",
+            "township": "Tinajas Segunda Sección",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42885",
+            "township": "Xaisnal",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42885",
+            "township": "El Capulín",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42885",
+            "township": "El Carrizal",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42890",
+            "township": "San Buenaventura",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42890",
+            "township": "Cerro Colorado",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42890",
+            "township": "San Ignacio Nopala",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42890",
+            "township": "Montecillo",
+            "townshipType": "Barrio",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42890",
+            "township": "Cantera de Villagrán",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42890",
+            "township": "San Mateo Buenavista",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42890",
+            "township": "Santa María Quelites",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42890",
+            "township": "La Cruz",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42893",
+            "township": "La Loma 2a. Sección",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42894",
+            "township": "San José Piedra Gorda",
+            "townshipType": "Pueblo",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42894",
+            "township": "La Loma",
+            "townshipType": "Barrio",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42894",
+            "township": "Las Colonias",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42895",
+            "township": "Golondrinas",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42895",
+            "township": "Hacienda Xajay",
+            "townshipType": "Ranchería",
+            "municipality": "Tepeji del Río de Ocampo",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+
+        //aquí comienza atitalaquia
+        {
+            "cp": "42970",
+            "township": "Atitalaquia",
+            "townshipType": "Residencial",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Tlalminulpa",
+            "townshipType": "Barrio",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42970",
+            "township": "Atitalaquia Centro",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Loma del Barrio del Cardonal",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Tezoquipa",
+            "townshipType": "Barrio",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "18 de Marzo",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Villas de Atitalaquia",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Cardonal",
+            "townshipType": "Barrio",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Dendho",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Tlamaco",
+            "townshipType": "Pueblo",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "El Cardonal",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "5 de Mayo",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Los Ángeles",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "San José Bojay el Grande",
+            "townshipType": "Estación",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42970",
+            "township": "El Tablón",
+            "townshipType": "Barrio",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Dendho",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42970",
+            "township": "Los Atlantes",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42974",
+            "township": "15 de Enero 1a. Sección",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42975",
+            "township": "Antonio Osorio de León",
+            "townshipType": "Unidad habitacional",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42976",
+            "township": "San Isidro Bojayito (Ex-hacienda Bojayito)",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42976",
+            "township": "Magueyal Viejo",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42976",
+            "township": "Chelita",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42976",
+            "township": "La Cantera",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42976",
+            "township": "Chihuahua",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42977",
+            "township": "San Luis",
+            "townshipType": "Ejido",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42977",
+            "township": "El Olimpo",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42978",
+            "township": "Empleados Pemex",
+            "townshipType": "Colonia",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42978",
+            "township": "La Loma de Ixtazacuala (La Loma)",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42978",
+            "township": "Los Cedros",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42979",
+            "township": "La Vega",
+            "townshipType": "Ranchería",
+            "municipality": "Atitalaquia",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+
+        //aquí comienza atotonilco de tula
+        {
+            "cp": "42980",
+            "township": "Atotonilco de Tula Centro",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42980",
+            "township": "Loma Bonita",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42982",
+            "township": "10 de Mayo",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42982",
+            "township": "Bóvedas",
+            "townshipType": "Barrio",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42982",
+            "township": "Loma Bonita 2da. Sección",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42985",
+            "township": "El Mirador",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42985",
+            "township": "Boxfi",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42985",
+            "township": "Vito",
+            "townshipType": "Barrio",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42985",
+            "township": "Independencia",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42985",
+            "township": "Los Compadres",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42985",
+            "township": "Tolteca",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42985",
+            "township": "La Joya",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42986",
+            "township": "El Refugio",
+            "townshipType": "Barrio",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42986",
+            "township": "Texas",
+            "townshipType": "Barrio",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42987",
+            "township": "Progreso",
+            "townshipType": "Pueblo",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42988",
+            "township": "La Cañada",
+            "townshipType": "Barrio",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42988",
+            "township": "El Puertecito",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42988",
+            "township": "Zacamulpa",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42988",
+            "township": "Ocampo",
+            "townshipType": "Barrio",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42990",
+            "township": "Conejos",
+            "townshipType": "Barrio",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42990",
+            "township": "El Cerrito",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42992",
+            "township": "El Venado",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42992",
+            "township": "El Portal",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42992",
+            "township": "San Antonio",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42992",
+            "township": "San José Acoculco",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42993",
+            "township": "Batha",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42993",
+            "township": "La Sierrita (La Presa del Tejocote)",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42994",
+            "township": "Real Castilla",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42994",
+            "township": "Senderos del Pedregal",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42994",
+            "township": "Santa Cruz del Tezontle",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42994",
+            "township": "Cuayuca",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42994",
+            "township": "El Pedregal",
+            "townshipType": "Pueblo",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42995",
+            "township": "Praderas del Potrero",
+            "townshipType": "Colonia",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42995",
+            "township": "La Toscana Ciudad Bicentenario Hidalgo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42995",
+            "township": "Las Terrazas",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42995",
+            "township": "Parque Industrial Bicentenario",
+            "townshipType": "Zona industrial",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42995",
+            "township": "Paseos de la Pradera",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42996",
+            "township": "Potrero Blanco",
+            "townshipType": "Ranchería",
+            "municipality": "Atotonilco de Tula",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+
+        //aquí comienza tetepango
+        {
+            "cp": "42940",
+            "township": "Tetepango Centro",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42943",
+            "township": "Nueva",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42943",
+            "township": "Morelos",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42943",
+            "township": "Espíritu Santo",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42943",
+            "township": "La Hormiga",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42944",
+            "township": "El Xitri",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42944",
+            "township": "Nicolás Bravo",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42944",
+            "township": "Rojo Gómez",
+            "townshipType": "Colonia",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42945",
+            "township": "Juandhó",
+            "townshipType": "Pueblo",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42945",
+            "township": "Ulapa de Melchor Ocampo",
+            "townshipType": "Pueblo",
+            "municipality": "Tetepango",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+
+
     ]
 }

@@ -5,8 +5,7 @@ class Home extends Component{
             <div className="container">
                 <div className="row">
                     <div className="col-6">
-                    
-                        <h1>Hola</h1>
+                       
                     </div>
                 </div>
             </div>
