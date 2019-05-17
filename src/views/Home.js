@@ -3,11 +3,10 @@ class Home extends Component{
     render(){
         return(
             <div className="container">
-                <div className="row">
-                    <div className="col-6">
-                       
-                    </div>
-                </div>
+
+                <div className="alert alert-success" role="alert">
+                    <h4 className="bienvenida"><center>Bienvenido a tú Curriculum Vitae</center></h4>
+                </div>    
             </div>
             
         );

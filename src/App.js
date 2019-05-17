@@ -1,15 +1,23 @@
 import React from 'react';
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Home from './views/Home';
-import Personales from './componentes/vistas/Personales';
+import Principal from './componentes/vistas/Principal';
+import Personal from './componentes/vistas/Personal';
+import Navbar from './componentes/vistas/Navbar';
 
 function App() {
   return (
     
-    <div>
+    <Router>
       <Home/>
-      <Personales/>
-    </div>
+      <Navbar/>
+      <Switch>
+        <Route exact path="/" component={Principal}/>
+        <Route path="/Personal" component={Personal}/>
+      </Switch>
+    </Router>
 
+    
   );
 }
 
