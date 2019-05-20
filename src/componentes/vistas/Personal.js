@@ -4,16 +4,35 @@ class Personal extends Component{
     render(){
         return(
 <div className="container">
-    <div class="center">
-        <div className="card" style={{width: "18rem"}}>
+    <div align="center">
+        <div className="card" style={{width: "30rem"}}>
             <img src={require('../../img/ima.jpg')} className="card-img-top" />
             <div className="card-body">
-                <div class="input-group">
-                        <div class="input-group-prepend">
-                            <span class="input-group-text">First and last name</span>
+                <div className="input-group">
+                        <div className="input-group-prepend">
+                            <span className="input-group-text">Nombre: Néstor Barrera Catón</span>
                         </div>
-                            <input type="text" aria-label="First name" class="form-control"/>
-                            <input type="text" aria-label="Last name" class="form-control"/>
+
+                        <div className="input-group-prepend">
+                            <span className="input-group-text">Fecha de nacimiento: 4 de Julio de 1998</span>
+                        </div>
+
+                        <div className="input-group-prepend">
+                            <span className="input-group-text">Lugar de nacimiento: Zacualtipán de Ángeles Hidalgo</span>
+                        </div>
+
+                        <div className="input-group-prepend">
+                            <span className="input-group-text">Dirección: Victor López s/n</span>
+                        </div>
+                        
+                        <div className="input-group-prepend">
+                            <span className="input-group-text">Código Postal: 43380</span>
+                        </div>
+
+                        <div className="input-group-prepend">
+                            <span className="input-group-text">Número teléfono: 7711632466</span>
+                        </div>
+                            
                 </div>
             </div>
         </div>
